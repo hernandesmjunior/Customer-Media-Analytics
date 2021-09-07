@@ -16,13 +16,13 @@ Encontrados os churnes de cada ano, é feito uma média do churn de ativos e do 
 Os passos utilizados para validar a hipótese foram:
 
 - 0.0 Importações
-- - Bibliotecas, funções de suporte e dataset.
+  - Bibliotecas, funções de suporte e dataset.
 - 1.0 Descrição dos Dados
-- - Verificação da tipagem de dados e valores faltantes.
+  - Verificação da tipagem de dados e valores faltantes.
 - 2.0 Modelagem de Dados
-- - Manuseio para a obtenção da taxa de churn anual de clientes ativos e novos.
+  - Manuseio para a obtenção da taxa de churn anual de clientes ativos e novos.
 - 3.0 Conclusão
-- - Consolidação dos resultados, teste de normalidade, análise de correlação e formas de se diminuir o churn de novos clientes.
+  - Consolidação dos resultados, teste de normalidade, análise de correlação e formas de se diminuir o churn de novos clientes.
 
 Durante todo o notebook Churn.ipynb os códigos foram comentados para que ficasse mais claro o que estava sendo executado.
 
@@ -43,9 +43,9 @@ Os passos utilizados:
 - 0.0 Importações
 - 1.0 Definindo o tempo da reunião
 - 2.0 Encontrando intervalos disponíveis
-- - 2.1 Pessoa A
-- - 2.2 Pessoa B
-- - 2.3 Intervalos disponiveis em ambas as agendas
+  - 2.1 Pessoa A
+  - 2.2 Pessoa B
+  - 2.3 Intervalos disponiveis em ambas as agendas
 
 A resolução está no arquivo Agendas.ipynb.
 
