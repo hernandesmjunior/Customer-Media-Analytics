@@ -11,7 +11,7 @@ A autonomia dada no case técnico faz com que seu problema tenha várias resolu�
 
 Portanto, um cliente que alugou um veículo pela primeira vez em 2015 e só voltou a alugar novamente em 2019, será considerado como um cliente novo, ou reconquistado.
 
-Encontrados os churnes de cada anos, é feito uma média do churn de ativos e do churn de novos nesse período analisado. Finalmente, as métricas são comparadas a fim de se aceitar ou rejeitar a hipótese.
+Encontrados os churnes de cada ano, é feito uma média do churn de ativos e do churn de novos nesse período analisado. Finalmente, as métricas são comparadas a fim de se aceitar ou rejeitar a hipótese.
 
 Os passos utilizados para validar a hipótese foram:
 
